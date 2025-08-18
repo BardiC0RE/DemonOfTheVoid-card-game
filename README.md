@@ -20,5 +20,4 @@ the sources that are used in the game are a bit shuffled next time and next proj
 -pillow
 -pygame
 
-#         PREVIEW
-![Uploading Screenshot 2025-08-18 235649.png…]()
+# PREVIEW
