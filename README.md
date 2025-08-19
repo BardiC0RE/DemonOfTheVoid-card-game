@@ -21,3 +21,4 @@ the sources that are used in the game are a bit shuffled next time and next proj
 -pygame
 
 # PREVIEW
+<img width="1913" height="1078" alt="Screenshot 2025-08-18 235649" src="https://github.com/user-attachments/assets/90098a5d-d46b-488f-9eed-015796fbd214" />
