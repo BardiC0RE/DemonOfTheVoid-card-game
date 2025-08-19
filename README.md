@@ -22,3 +22,4 @@ the sources that are used in the game are a bit shuffled next time and next proj
 
 # PREVIEW
 <img width="1913" height="1078" alt="Screenshot 2025-08-18 235649" src="https://github.com/user-attachments/assets/90098a5d-d46b-488f-9eed-015796fbd214" />
+<img width="1919" height="1070" alt="Screenshot 2025-08-19 185354" src="https://github.com/user-attachments/assets/1124302c-846a-400e-95b8-4fbd53711834" />
